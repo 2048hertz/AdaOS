@@ -21,3 +21,5 @@ Things that may be added:
 - Optional AI -- can be disabled for performance (would be called either RobertAI or Ada-AI)
 
 The name "Ada" came from Ada Lovelace, the world's first computer programmer.
+
+**Developed in Dhaka, Bangladesh**
