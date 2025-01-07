@@ -9,8 +9,9 @@ Completed features:
 - ROPM (https://github.com/2048hertz/ropm)
 
 Semi-completed features:
-- Desktop (From my abandoned AstraOS project)
-- Raspberry Pi 5 and ARM version (From my abandoned AstraOS project)
+- Desktop (From my archived AstraOS project)
+- Raspberry Pi 5 / ARM version (From my archived AstraOS project)
+- Update Manager (Ada Update Manager - AUM) (From my archived AstraOS project [RUM])
 
 Important things to be completed:
 - RL conversion script
