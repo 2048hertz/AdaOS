@@ -14,7 +14,8 @@ Completed features:
 Semi-completed features:
 - Desktop (https://github.com/2048hertz/adaos-xfce)
 - Raspberry Pi 5 / ARM version (From my archived AstraOS project)
-- Update Manager (Ada Update Manager - AUM) (From my archived AstraOS project [RUM])
+- Update Manager (https://github.com/Mrsupertag/adaupdatemanager)
+- Flet install script (https://github.com/Mrsupertag/adaos-flet)
 
 Important things to be completed:
 - RL conversion script
