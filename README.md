@@ -16,6 +16,7 @@ Semi-completed features:
 - Raspberry Pi 5 / ARM version (From my archived AstraOS project)
 - Update Manager (https://github.com/Mrsupertag/adaupdatemanager)
 - Flet install script (https://github.com/Mrsupertag/adaos-flet)
+- Help Application (https://github.com/Mrsupertag/adaos-help)
 
 Important things to be completed:
 - RL conversion script
