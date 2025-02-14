@@ -12,7 +12,7 @@ Completed features:
 - ROPM (https://github.com/2048hertz/ropm)
 
 Semi-completed features:
-- Desktop (https://github.com/2048hertz/adaos-xfce)
+- Desktop (https://github.com/2048hertz/ece)
 - Raspberry Pi 5 / ARM version (From my archived AstraOS project)
 - Update Manager (https://github.com/Mrsupertag/adaupdatemanager)
 - Flet install script (https://github.com/Mrsupertag/adaos-flet)
