@@ -1,4 +1,4 @@
-# AdaOS x86
+# AdaOS x86-64
 
 This repository is to report major issues and download AdaOS
 
@@ -19,13 +19,16 @@ Semi-completed features:
 - Help Application (https://github.com/Mrsupertag/adaos-help)
 
 Important things to be completed:
-- RL conversion script
+- Addition of a custom kernel
 - App store
 - Installer ISO
 
 Things that may be added:
-- Optional AI -- can be disabled for performance (would be called either RobertAI or Ada-AI)
+- Optional AI -- Can be disabled for performance (would be called either RobertAI or Ada-AI) (likely will not be there because we don't want to invade people's privacy nor hinder their computer speed)
+- Space -- An app that can be turned on by the press of a keybind, it acts as a place for one to collect their thoughts, everything will be stored locally so no data will be managed by us. This app is basically a glorified notes app so we'd rather just install a normal one by default I guess.
 
 The name "Ada" came from Ada Lovelace, the world's first computer programmer.
 
-**Developed in Dhaka, Bangladesh**
+**Being actively developed in Dhaka, Bangladesh**
+
+This operating system is built to give a stable linux experience to whoever wants it, and to appease to the Bangladeshi Linux community
