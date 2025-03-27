@@ -1,5 +1,3 @@
-![ROBERT OPERATING SYSTEM222](https://github.com/user-attachments/assets/b67bb628-6d52-4db3-bb84-4bcc648794bb)
-
 # AdaOS x86-64
 
 This repository is to report major issues and download AdaOS
@@ -28,6 +26,8 @@ Important things to be completed:
 Things that may be added:
 - Optional AI -- Can be disabled for performance (would be called either RobertAI or Ada-AI) (likely will not be there because we don't want to invade people's privacy nor hinder their computer speed)
 - Space -- An app that can be turned on by the press of a keybind, it acts as a place for one to collect their thoughts, everything will be stored locally so no data will be managed by us. This app is basically a glorified notes app so we'd rather just install a normal one by default I guess.
+
+![ROBERT OPERATING SYSTEM222](https://github.com/user-attachments/assets/b67bb628-6d52-4db3-bb84-4bcc648794bb)
 
 The name "Ada" came from Ada Lovelace, the world's first computer programmer.
 
