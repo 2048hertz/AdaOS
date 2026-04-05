@@ -1,5 +1,7 @@
 # AdaOS x86-64
 
+**WORK TOWARDS ADAOS IS TEMPORARILY PAUSED**
+
 This repository is to report major issues and download AdaOS
 
 AdaOS (Ada Operating System) is a GNU/LINUX operating system based on Rocky Linux which focuses on user experience, design, freedom, privacy and stability.
